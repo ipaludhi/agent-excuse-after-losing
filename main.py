@@ -14,7 +14,11 @@ agent's own confident, straight-faced voice (3); it is one sentence,
 one breath, no setup (4); and it blames nobody but itself — the
 instructions were its own (5).
 
-Revision: none yet — first version is the chosen candidate C11.
+Revision: docstring expanded after the first kit check with the bundle
+(24 Nov 2026) to record the judge-criteria scoring behind the choice —
+C11 beat runner-up C3 on logic (submitting a known loss makes no sense)
+and C4 on ownership (it denies the loss). The entry sentence itself is
+unchanged, byte for byte.
 """
 
 import os
